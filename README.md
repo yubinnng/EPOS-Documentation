@@ -1,6 +1,6 @@
 # EPOS-Documentation
 
-You can view this document by visit the [Online Edition](https://yubinnng.github.io/EPOS-Documentation/)
+This document has been deployed with git pages, click [Online Edition](https://yubinnng.github.io/EPOS-Documentation/)
 
 This repository contains the documentation for EPOS and I-EPOS projects.
 
