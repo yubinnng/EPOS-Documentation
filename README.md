@@ -1,5 +1,7 @@
 # EPOS-Documentation
 
+You can view this document by visit the [Online Edition](https://yubinnng.github.io/EPOS-Documentation/)
+
 This repository contains the documentation for EPOS and I-EPOS projects.
 
 The documentation is written in markup language called **reStructuredText**, often abbreviated as **reST**.
